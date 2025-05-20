@@ -115,8 +115,9 @@ analytics:
 author:
   name             : "Yang Jiang"
   avatar           : "/assets/images/YangJiangSquare.png"
-  bio              : "Research Scientist @ ETS 
-  AI, Education, and Learning Analytics"
+  bio              : |
+    Research Scientist @ ETS 
+    AI, Education, and Learning Analytics
   location         : "Princeton, NJ"
   email            :
   links:
