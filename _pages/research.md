@@ -14,7 +14,11 @@ author_profile: true
   position: relative;
   display: inline-block;
 }
-.research-entry img {
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+.image-container img {
   # width: 400px;
   max-width: 35%;
   height: auto;
@@ -62,8 +66,10 @@ My research is at the intersection of AI, education, psychology, and technology.
 I am passionate about developing and applying educational data mining and learning analytics methods on process data to explore how learners interact with technology-based assessments and learning systems, and how the interactions are related to cognition and learning. My work often involves analyzing the wealth of process data (e.g., log files, text chats, audio, video) obtained from various types of systems, including large-scale educational assessments, intelligent tutoring systems, simulations, educational games, and virtual environments. For example, in a series of studies using data from NAEP’s digitally based assessments, we investigate test-takers’ cognitive and metacognitive processes and problem-solving strategies by integrating process data, response data, and survey questionnaire data. To uncover patterns in learner behavior and cognition, I apply advanced methods including sequence mining, feature engineering, cluster analysis, social network analysis, hidden Markov models, and visualization techniques like Sankey diagrams to make visible what is often hidden in traditional assessments. Below are select projects related to this line of work.
 
 <div class="research-entry">
-  <img src="/assets/images/Jiang et al 2025 Journal of Computer Assisted Learning.png" alt="Automated Writing Feedback">
-  <span class="venue-label">Computers & Education</span>
+  <div class="image-container">
+    <img src="/assets/images/Jiang et al 2025 Journal of Computer Assisted Learning.png" alt="Automated Writing Feedback">
+    <span class="venue-label">Computers & Education</span>
+  </div>div>
   <div class="research-entry-text">
     <a href="https://doi.org/10.1111/jcal.70014"><strong>Unveiling Patterns of Interaction with Automated Feedback in Writing Mentor and Their Relationships with Use Goals and Writing Outcomes</strong><br></a>
     <strong>Yang Jiang</strong>, Beata Beigman Klebanov, Jiangang Hao, Paul Deane, Oren E. Livne
