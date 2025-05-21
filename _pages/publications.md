@@ -41,52 +41,53 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 
 
 ## Conference Papers in Stringently Refereed Proceedings
-Jiang, Y., Hao, J., Cui, W., Kerzabi, E., & Kyllonen, P. (2025). Uncovering transferable collaboration patterns across tasks using large language models. Proceedings of the 26th International Conference on Artificial Intelligence in Education (AIED 2025).
 
-Hou, X., Forsyth, C. M., Andrews-Todd, J., Rice, J., Cai, Z., Jiang, Y., Zapata-Rivera, D., & Graesser, A. C. (2025). An LLM-enhanced multi-agent architecture for conversation-based assessment. Proceedings of the 26th International Conference on Artificial Intelligence in Education (AIED 2025).
+- **Jiang, Y.**, Hao, J., Cui, W., Kerzabi, E., & Kyllonen, P. (2025). Uncovering transferable collaboration patterns across tasks using large language models. *Proceedings of the 26th International Conference on Artificial Intelligence in Education (AIED 2025).*
 
-Jiang, Y., Graf, E. A., & Andrews-Todd, J. (2025). Using epistemic network analysis and sequential pattern mining to explore the impacts of human facilitation on collaborative mathematical problem solving. Proceedings of the Annual Meeting of the International Society of the Learning Sciences (ISLS 2025).
+- Hou, X., Forsyth, C. M., Andrews-Todd, J., Rice, J., Cai, Z., **Jiang, Y.**, Zapata-Rivera, D., & Graesser, A. C. (2025). An LLM-enhanced multi-agent architecture for conversation-based assessment. *Proceedings of the 26th International Conference on Artificial Intelligence in Education (AIED 2025)*.
 
-Jiang, Y., Hao, J., Fauss, M., & Li, C. (2024). Towards fair detection of AI-generated essays in large-scale writing assessments. Proceedings of the 25th International Conference on Artificial Intelligence in Education (AIED 2024) (pp. 317-324). Springer. https://doi.org/10.1007/978-3-031-64312-5_38
+- **Jiang, Y.**, Graf, E. A., & Andrews-Todd, J. (2025). Using epistemic network analysis and sequential pattern mining to explore the impacts of human facilitation on collaborative mathematical problem solving. *Proceedings of the Annual Meeting of the International Society of the Learning Sciences (ISLS 2025)*.
 
-Forsyth, C., Zapata-Rivera, D., Graf, E., & Jiang, Y. (2024). Complex conversations: LLMs vs. knowledge engineered conversation-based assessment. Proceedings of the 17th International Conference on Educational Data Mining (EDM 2024), pp 868-871. DOI: 10.5281/zenodo.12729976.
+- **Jiang, Y.**, Hao, J., Fauss, M., & Li, C. (2024). [Towards fair detection of AI-generated essays in large-scale writing assessments](https://doi.org/10.1007/978-3-031-64312-5_38). *Proceedings of the 25th International Conference on Artificial Intelligence in Education (AIED 2024)* (pp. 317-324). Springer.
 
-Jiang, Y., Beigman Klebanov, B., Livne, O. E., & Hao, J. (2023). Analyzing users’ interaction with writing feedback and their effects on writing performance. In N. Wang, G. Rebolledo-Mendez, V. Dimitrova, N. Matsuda, O. C. Santos (Eds.), Proceedings of the 24th International Conference on Artificial Intelligence in Education (AIED 2023) (pp. 466-471). Springer. https://doi.org/10.1007/978-3-031-36336-8_72
+- Forsyth, C., Zapata-Rivera, D., Graf, E., & **Jiang, Y.** (2024). [Complex conversations: LLMs vs. knowledge engineered conversation-based assessment](10.5281/zenodo.12729976). *Proceedings of the 17th International Conference on Educational Data Mining (EDM 2024)*, pp 868-871.
 
-Zhang, J., Ober, T., Jiang, Y., Plass, J., & Homer, B. (2021). Predicting executive functions in a learning game: Accuracy and reaction time. Proceedings of the 14th International Conference on Educational Data Mining (EDM 2021), 688-693. [Won Research and Scholarship Showcase Poster Presentation Award]
+- **Jiang, Y.**, Beigman Klebanov, B., Livne, O. E., & Hao, J. (2023). [Analyzing users’ interaction with writing feedback and their effects on writing performance](https://doi.org/10.1007/978-3-031-36336-8_72). In N. Wang, G. Rebolledo-Mendez, V. Dimitrova, N. Matsuda, O. C. Santos (Eds.), *Proceedings of the 24th International Conference on Artificial Intelligence in Education (AIED 2023)* (pp. 466-471). Springer.
 
-Jiang, Y., Almeda, V., Kai, S., Baker, R.S., Ostrow, K., Inventado, P., & Scupelli, P. (2020). Single template vs. multiple templates: Examining the effects of problem structure on performance. Proceedings of the 14th International Conference of the Learning Sciences (ICLS), 1015-1022.
+- Zhang, J., Ober, T., **Jiang, Y.**, Plass, J., & Homer, B. (2021). Predicting executive functions in a learning game: Accuracy and reaction time. *Proceedings of the 14th International Conference on Educational Data Mining (EDM 2021)*, 688-693. **[Won Research and Scholarship Showcase Poster Presentation Award]**
 
-Gong, T., Shuai, L., Arslan, B., & Jiang, Y. (2020). Process based analysis on scientific inquiry tasks using large-scale national assessment dataset. Proceedings of the 13th International Conference on Educational Data Mining (EDM 2020), pp. 417–423.
+- **Jiang, Y.**, Almeda, V., Kai, S., Baker, R.S., Ostrow, K., Inventado, P., & Scupelli, P. (2020). Single template vs. multiple templates: Examining the effects of problem structure on performance. *Proceedings of the 14th International Conference of the Learning Sciences (ICLS)*, 1015-1022.
 
-Andres, A., Ocumpaugh, J., Baker, R.S., Slater, S., Paquette, L., Jiang, Y., Bosch, N., Munshi, A., Moore, A. & Biswas, G. (2019). Affect sequences and learning in Betty’s Brain. Proceedings of the 9th International Learning Analytics and Knowledge (LAK) Conference, 383-390.
+- Gong, T., Shuai, L., Arslan, B., & **Jiang, Y.** (2020). Process based analysis on scientific inquiry tasks using large-scale national assessment dataset. *Proceedings of the 13th International Conference on Educational Data Mining (EDM 2020)*, pp. 417–423.
 
-Jiang, Y., Bosch, N., Baker, R. S., Paquette, L., Ocumpaugh, J., Andres, J. M. A. L., Moore, A. L., Biswas, G. (2018). Expert feature-engineering vs. deep neural networks: Which is better for sensor-free affect detection? In Proceedings of the 19th International Conference on Artificial Intelligence in Education (AIED 2018) (pp. 198–211). Berlin, Heidelberg: Springer. [Won Best Student Paper Award] [Nominated for Best Paper Award]
+- Andres, A., Ocumpaugh, J., Baker, R.S., Slater, S., Paquette, L., **Jiang, Y.**, Bosch, N., Munshi, A., Moore, A. & Biswas, G. (2019). Affect sequences and learning in Betty’s Brain. *Proceedings of the 9th International Learning Analytics and Knowledge (LAK) Conference*, 383-390.
 
-Jiang, Y., Paquette, L., Baker, R.S., Clarke-Midura, J. (2015). Comparing novice and experienced students in Virtual Performance Assessments. Proceedings of the 8th International Conference on Educational Data Mining (pp. 136–143).
+- **Jiang, Y.**, Bosch, N., Baker, R. S., Paquette, L., Ocumpaugh, J., Andres, J. M. A. L., Moore, A. L., Biswas, G. (2018). Expert feature-engineering vs. deep neural networks: Which is better for sensor-free affect detection? In *Proceedings of the 19th International Conference on Artificial Intelligence in Education (AIED 2018)* (pp. 198–211). Berlin, Heidelberg: Springer. **[Won Best Student Paper Award] [Nominated for Best Paper Award]**
 
-Jiang, Y., Baker, R.S., Paquette, L., San Pedro, M.O., Heffernan, N.T. (2015). Learning, moment-by-moment, and over the long term. Proceedings of the 17th International Conference on Artificial Intelligence in Education (pp. 654–657). Berlin, Heidelberg: Springer.
+- **Jiang, Y.**, Paquette, L., Baker, R.S., Clarke-Midura, J. (2015). Comparing novice and experienced students in Virtual Performance Assessments. *Proceedings of the 8th International Conference on Educational Data Mining* (pp. 136–143).
 
-Sao Pedro, M., Jiang, Y., Paquette, L., Baker, R.S., Gobert, J. (2014). Identifying transfer of inquiry skills across physical science simulations using educational data mining. Proceedings of the 11th International Conference of the Learning Sciences (pp. 222–229).
+- **Jiang, Y.**, Baker, R.S., Paquette, L., San Pedro, M.O., Heffernan, N.T. (2015). Learning, moment-by-moment, and over the long term. *Proceedings of the 17th International Conference on Artificial Intelligence in Education* (pp. 654–657). Berlin, Heidelberg: Springer.
 
-Jiang, Y. (2014). Design of invention-based simulations as preparation for future learning. Proceedings of Teachers College Educational Technology Conference (TCETC), New York, NY.
+- Sao Pedro, M., **Jiang, Y.**, Paquette, L., Baker, R.S., Gobert, J. (2014). Identifying transfer of inquiry skills across physical science simulations using educational data mining. *Proceedings of the 11th International Conference of the Learning Sciences* (pp. 222–229).
+
+- **Jiang, Y.** (2014). Design of invention-based simulations as preparation for future learning. *Proceedings of Teachers College Educational Technology Conference (TCETC)*, New York, NY.
 
 
 ## Book chapters
-Jiang, Y., Clarke-Midura, J., Baker, R. S., Paquette, L., & Keller, B. (2018). How immersive virtual environments foster self-regulated learning. In R. Zheng (Ed.), Digital technologies and instructional design for personalized learning (pp. 28–54). Hershey, PA: IGI Global.
+- **Jiang, Y.**, Clarke-Midura, J., Baker, R. S., Paquette, L., & Keller, B. (2018). How immersive virtual environments foster self-regulated learning. In R. Zheng (Ed.), *Digital technologies and instructional design for personalized learning* (pp. 28–54). Hershey, PA: IGI Global.
 
 
 ## Workshop Papers
-Zapata-Rivera, D., Forsyth, C. M., Graf, A., & Jiang, Y. (2024). Designing and evaluating evidence-centered design based conversations for assessment with LLMs. Proceedings of EDM 2024 Workshop: Leveraging Large Language Models for Next Generation Educational Technologies.
+- Zapata-Rivera, D., Forsyth, C. M., Graf, A., & **Jiang, Y.** (2024). Designing and evaluating evidence-centered design based conversations for assessment with LLMs. *Proceedings of EDM 2024 Workshop: Leveraging Large Language Models for Next Generation Educational Technologies*.
 
 ## Commissioned Papers and Special Reports
-Jiang, Y., Cayton-Hodges, G. A., Nabors Oláh, L., & Minchuk, I. (2022). Using student calculator data to make inferences about student problem solving on the grade 8 NAEP 2019 mathematics assessment. Report to U.S. Department of Education.
+- **Jiang, Y.**, Cayton-Hodges, G. A., Nabors Oláh, L., & Minchuk, I. (2022). Using student calculator data to make inferences about student problem solving on the grade 8 NAEP 2019 mathematics assessment. Report to U.S. Department of Education.
 
-NAEP Reporting Task Force White Paper. Submitted to U.S. Department of Education. (2020)
+- NAEP Reporting Task Force White Paper. Submitted to U.S. Department of Education. (2020)
 
-NAEP Science ICT Process Data Analyses Report. Submitted to U.S. Department of Education. (2019)
+- NAEP Science ICT Process Data Analyses Report. Submitted to U.S. Department of Education. (2019)
 
-NAEP Special Study SBT-DI Task Report. Submitted to U.S. Department of Education. (2018)
+- NAEP Special Study SBT-DI Task Report. Submitted to U.S. Department of Education. (2018)
 
 ## Preprints
-Zhang, L., Lin, J., Sabatini, J., Zapata-Rivera, D., Forsyth, C., Jiang, Y., Hollander, J., Hu, X., & Graesser, A. C. (2025). Generative data imputation for sparse learner performance data using generative adversarial imputation networks. ArXiv. https://doi.org/10.48550/arXiv.2503.18982
+- Zhang, L., Lin, J., Sabatini, J., Zapata-Rivera, D., Forsyth, C., **Jiang, Y.**, Hollander, J., Hu, X., & Graesser, A. C. (2025). Generative data imputation for sparse learner performance data using generative adversarial imputation networks. [ArXiv](https://doi.org/10.48550/arXiv.2503.18982).
