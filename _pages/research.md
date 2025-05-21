@@ -28,7 +28,27 @@ author_profile: true
   margin-left: 0 !important;
   max-width: 100% !important;
 }
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.venue-label {
+  position: absolute;
+  top: 8px; /* 10 px */
+  left: 8px; /* 10 px */
+  background-color: rgba(13, 40, 216, 0.7); /* semi-transparent black  rgba(0, 0, 0, 0.7); */
+  color: #fff;;
+  font-size: 0.75rem;/*12px*/
+  padding: 2px 6px; /*2px 8px*/
+  border-radius: 4px;
+  font-weight: bold;
+  z-index: 2;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+}
+
 </style>
+
 
 My research is at the intersection of AI, education, psychology, and technology. Specifically, my research is centered around:
 
@@ -44,19 +64,7 @@ I am passionate about developing and applying educational data mining and learni
 
 <div class="research-entry">
   <img src="/assets/images/Jiang et al 2025 Journal of Computer Assisted Learning.png" alt="Automated Writing Feedback">
-  <span style="
-      position: absolute;
-      top: 10px;
-      left: 10px;
-      background: rgba(13, 40, 216, 0.9);
-      color: #fff;
-      padding: 2px 8px;
-      font-size: 12px;
-      font-weight: bold;
-      border-radius: 4px;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
-      Under Review
-    </span>
+  <span class="venue-label">Computers & Education</span>
   <div class="research-entry-text">
     <a href="https://doi.org/10.1111/jcal.70014"><strong>Unveiling Patterns of Interaction with Automated Feedback in Writing Mentor and Their Relationships with Use Goals and Writing Outcomes</strong><br></a>
     <strong>Yang Jiang</strong>, Beata Beigman Klebanov, Jiangang Hao, Paul Deane, Oren E. Livne
