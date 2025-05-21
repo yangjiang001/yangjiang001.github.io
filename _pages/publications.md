@@ -11,11 +11,11 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 
 ## Journal Articles
 
-- Jiang, Y., Beigman Klebanov, B., Hao, J., Deane, P., & Livne, O. E. (2025). [Unveiling patterns of interaction with automated feedback in Writing Mentor and their relationships with use goals and writing outcomes] (https://doi.org/10.1111/jcal.70014). *Journal of Computer Assisted Learning*, 41(2). e70014.
+- Jiang, Y., Beigman Klebanov, B., Hao, J., Deane, P., & Livne, O. E. (2025). [Unveiling patterns of interaction with automated feedback in Writing Mentor and their relationships with use goals and writing outcomes](https://doi.org/10.1111/jcal.70014). *Journal of Computer Assisted Learning*, 41(2). e70014.
 
-- Jiang, Y., Zhang, M., Hao, J., Deane, P., & Li, C. (2024). Using keystroke behavior patterns to detect nonauthentic texts in writing assessments: Evaluating the fairness of predictive models. Journal of Educational Measurement, 61(4), 571-594. https://doi.org/10.1111/jedm.12416
+- Jiang, Y., Zhang, M., Hao, J., Deane, P., & Li, C. (2024). [Using keystroke behavior patterns to detect nonauthentic texts in writing assessments: Evaluating the fairness of predictive models](https://doi.org/10.1111/jedm.12416). *Journal of Educational Measurement*, 61(4), 571-594. 
 
-- Jiang, Y., Hao, J., Fauss, M., & Li, C. (2024). Detecting ChatGPT-generated essays in a large-scale writing assessment: Is there a bias against non-native English speakers? Computers and Education, 217, 105070. https://doi.org/10.1016/j.compedu.2024.105070
+- Jiang, Y., Hao, J., Fauss, M., & Li, C. (2024). [Detecting ChatGPT-generated essays in a large-scale writing assessment: Is there a bias against non-native English speakers?](https://doi.org/10.1016/j.compedu.2024.105070) *Computers and Education*, 217, 105070.
 
 Andrews-Todd, J., Jiang, Y., Steinberg, J., Pugh, S., L., & D’Mello, S. K. (2023). Investigating collaborative problem solving skills and outcomes across computer-based tasks. Computers and Education, 207, 104928. https://doi.org/10.1016/j.compedu.2023.104928
 
