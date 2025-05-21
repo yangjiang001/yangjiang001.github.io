@@ -69,7 +69,7 @@ I am passionate about developing and applying educational data mining and learni
 <div class="research-entry">
   <div class="image-container">
     <img src="/assets/images/Jiang et al 2025 Journal of Computer Assisted Learning.png" alt="Automated Writing Feedback">
-    <span class="venue-label">Computers & Education</span>
+    <span class="venue-label">JCAL</span>
   </div>
   <div class="research-entry-text">
     <a href="https://doi.org/10.1111/jcal.70014"><strong>Unveiling Patterns of Interaction with Automated Feedback in Writing Mentor and Their Relationships with Use Goals and Writing Outcomes</strong><br></a>
@@ -81,7 +81,7 @@ I am passionate about developing and applying educational data mining and learni
 <div class="research-entry">
   <div class="image-container">
     <img src="/assets/images/Jiang et al 2023 Computers and Education.png" alt="NAEP Calculator Use">
-    <span class="venue-label">Computers & Education</span>
+    <span class="venue-label">COMP EDU</span>
   </div>
   <div class="research-entry-text">
     <a href="https://doi.org/10.1016/j.compedu.2022.104680"><strong>Using Sequence Mining to Study Students’ Calculator Use, Problem Solving, and Mathematics Achievement in the National Assessment of Educational Progress (NAEP)</strong></a><br>
@@ -91,7 +91,10 @@ I am passionate about developing and applying educational data mining and learni
 </div>
 
 <div class="research-entry">
-  <img src="/assets/images/Jiang et al 2023 JRME.png" alt="Data Mining and Problem Solving">
+  <div class="image-container">
+    <img src="/assets/images/Jiang et al 2023 JRME.png" alt="Data Mining and Problem Solving">
+    <span class="venue-label">JRME</span>
+  </div>
   <div class="research-entry-text">
     <a href="https://doi.org/10.5951/jresematheduc-2020-0290"><strong>Investigating Problem Solving on Calculator Items in a Large-Scale Digitally-Based Assessment: A Data Mining Approach</strong><br></a>
     <strong>Yang Jiang</strong>, Gabrielle A. Cayton-Hodges
@@ -100,7 +103,10 @@ I am passionate about developing and applying educational data mining and learni
 </div>
 
 <div class="research-entry">
-  <img src="/assets/images/Jiang et al 2021 LSAE.png" alt="Process Data">
+  <div class="image-container">
+    <img src="/assets/images/Jiang et al 2021 LSAE.png" alt="Process Data">
+    <span class="venue-label">LSAE</span>
+  </div>
   <div class="research-entry-text">
     <a href="https://doi.org/10.1186/s40536-021-00095-4"><strong>Using Process Data to Understand Problem-Solving Strategies and Processes for Drag-And-Drop Items in a Large-Scale Mathematics Assessment</strong></a><br>
     <strong>Yang Jiang</strong>, Tao Gong, Luis E. Saldivia, Gabrielle Cayton-Hodges, Chris Agard
@@ -109,7 +115,10 @@ I am passionate about developing and applying educational data mining and learni
 </div>
 
 <div class="research-entry">
-  <img src="/assets/images/Jiang et al 2018 AIED.png" alt="Deep Learning">
+  <div class="image-container">
+    <img src="/assets/images/Jiang et al 2018 AIED.png" alt="Deep Learning">
+    <span class="venue-label">AIED</span>
+  </div>
   <div class="research-entry-text">
     <a href="https://link.springer.com/chapter/10.1007/978-3-319-93843-1_15"><strong>Expert Feature-Engineering vs. Deep Neural Networks: Which is Better for Sensor-Free Affect Detection?</strong></a><br>
     <strong>Yang Jiang</strong>, Nigel Bosch, Ryan S. Baker, Luc Paquette, Jaclyn Ocumpaugh, Juliana Ma Alexandra L. Andres, Allison L. Moore, Gautam Biswas
@@ -127,7 +136,10 @@ I am passionate about developing and applying educational data mining and learni
 The rapid rise of generative AI, such as ChatGPT, presents both tremendous opportunities and complex challenges. One significant challenge for educators is determining whether students’ submissions are their own work or AI-generated—a task crucial for ensuring academic integrity. To address this, we developed and evaluated various methods for detecting AI-generated essays by leveraging extensive data from large-scale assessments. We systematically investigated detectors’ performance across demographic groups, ensuring the detectors are fair with no systemic disadvantages for marginalized students. Our detectors achieved near-perfect accuracy and minimal bias against non-native English speakers. Expanding this work, we incorporated process data such as keystroke dynamics and writing behaviors to identify nonauthentic writing behaviors, opening new avenues for enhancing detection methods while prioritizing fairness. Our findings offer empirical evidence to inform educational policies, support the responsible use of AI tools, and promote fairness in academic environments. This work was recognized with the Harvard Graduate School of Education Alumni Council Award for Impact in Education.
 
 <div class="research-entry">
-  <img src="/assets/images/Jiang et al 2024 Computers and Education.png" alt="AI Detection">
+  <div class="image-container">
+    <img src="/assets/images/Jiang et al 2024 Computers and Education.png" alt="AI Detection">
+    <span class="venue-label">COMP EDU</span>
+  </div>
   <div class="research-entry-text">
     <a href="https://doi.org/10.1016/j.compedu.2024.105070"><strong>Detecting ChatGPT-Generated Essays in a Large-Scale Writing Assessment: Is There a Bias Against Non-Native English Speakers?</strong><br></a>
     <strong>Yang Jiang</strong>, Jiangang Hao, Michael Fauss, Chen Li
@@ -136,7 +148,10 @@ The rapid rise of generative AI, such as ChatGPT, presents both tremendous oppor
 </div>
 
 <div class="research-entry">
-  <img src="/assets/images/Jiang et al 2024 AIED Table.png" alt="Bias Study">
+  <div class="image-container">
+    <img src="/assets/images/Jiang et al 2024 AIED Table.png" alt="Bias Study">
+    <span class="venue-label">AIED</span>
+  </div>
   <div class="research-entry-text">
     <a href="https://doi.org/10.1007/978-3-031-64312-5_38"><strong>Towards Fair Detection of AI-Generated Essays in Large-Scale Writing Assessments</strong></a><br>
     <strong>Yang Jiang</strong>, Jiangang Hao, Michael Fauss, Chen Li 
@@ -145,7 +160,10 @@ The rapid rise of generative AI, such as ChatGPT, presents both tremendous oppor
 </div>
  
 <div class="research-entry">
-  <img src="/assets/images/Jiang et al 2024 JEM.png" alt="Keystroke Patterns">
+  <div class="image-container">
+    <img src="/assets/images/Jiang et al 2024 JEM.png" alt="Keystroke Patterns">
+    <span class="venue-label">JEM</span>
+  </div>
   <div class="research-entry-text">
     <a href="https://doi.org/10.1111/jedm.12416"><strong>Using Keystroke Behavior Patterns to Detect Nonauthentic Texts in Writing Assessments: Evaluating the Fairness of Predictive Models</strong><br></a>
     <strong>Yang Jiang</strong>, Mo Zhang, Jiangang Hao, Paul Deane, Chen Li
@@ -162,7 +180,10 @@ The rapid rise of generative AI, such as ChatGPT, presents both tremendous oppor
 I have led and contributed to numerous large-scale, multi-year research projects focused on assessing and supporting complex 21st century skills, including collaborative problem solving (CPS) and self-regulated learning (SRL). These projects span a wide range of domains, task types, participant populations, and experimental designs, enabling us to examine the generalizability of our methodologies and findings across diverse contexts. We apply theoretically grounded approaches that integrate educational data mining, psychometric modeling, and data analytics on multimodal data to better measure these complex constructs and understand their relationship to learning outcomes. This research provides deeper insights into the dynamics of human-human and human-AI interactions, supports more valid assessments of complex skills, and informs the design of interventions or scaffolding to support the development and transfer of these critical skills.
 
 <div class="research-entry">
-  <img src="/assets/images/Jiang et al 2025 AIED Table.png" alt="LLM Coding">
+  <div class="image-container">
+    <img src="/assets/images/Jiang et al 2025 AIED Table.png" alt="LLM Coding">
+    <span class="venue-label">AIED</span>
+  </div>
   <div class="research-entry-text">
     <a href="https://doi.org/10.1111/jcal.70014"><strong>Uncovering Transferable Collaboration Patterns Across Tasks Using Large Language Models</strong><br></a>
     <strong>Yang Jiang</strong>, Jiangang Hao, Wenju Cui, Emily Kerzabi, Patrick Kyllonen
@@ -171,7 +192,10 @@ I have led and contributed to numerous large-scale, multi-year research projects
 </div>
 
 <div class="research-entry">
-  <img src="/assets/images/Jiang et al 2025 ISLS.png" alt="Epistemic Network Analysis">
+  <div class="image-container">
+    <img src="/assets/images/Jiang et al 2025 ISLS.png" alt="Epistemic Network Analysis">
+    <span class="venue-label">ISLS</span>
+  </div>
   <div class="research-entry-text">
     <a href="https://doi.org/10.1016/j.compedu.2022.104680"><strong>Using Epistemic Network Analysis and Sequential Pattern Mining to Explore the Impacts of Human Facilitation on Collaborative Mathematical Problem Solving</strong></a><br>
     <strong>Yang Jiang</strong>, Edith Aurora Graf, Jessica Andrews-Todd 
@@ -180,7 +204,10 @@ I have led and contributed to numerous large-scale, multi-year research projects
 </div>
 
 <div class="research-entry">
-  <img src="/assets/images/Jiang et al 2023 Computers in Human Behavior Figure.png" alt="Personality">
+  <div class="image-container">
+    <img src="/assets/images/Jiang et al 2023 Computers in Human Behavior Figure.png" alt="Personality">
+    <span class="venue-label">CHB</span>
+  </div>
   <div class="research-entry-text">
     <a href="https://doi.org/10.1016/j.chb.2022.107608"><strong>Do You Know Your Partner's Personality Through Virtual Collaboration or Negotiation? Investigating perceptions of personality and their impacts on performance</strong><br></a>
     <strong>Yang Jiang</strong>, Michelle Martín-Raugh, Zhitong Yang, Jiangang Hao, Lei Liu, Patrick C. Kyllonen
@@ -189,7 +216,10 @@ I have led and contributed to numerous large-scale, multi-year research projects
 </div>
 
 <div class="research-entry">
-  <img src="/assets/images/Andrews Todd et al 2023.jpg" alt="CPS Across Tasks">
+  <div class="image-container">
+    <img src="/assets/images/Andrews Todd et al 2023.jpg" alt="CPS Across Tasks">
+    <span class="venue-label">COMP EDU</span>
+  </div>
   <div class="research-entry-text">
     <a href="https://doi.org/10.1016/j.compedu.2023.104928"><strong>Investigating Collaborative Problem Solving Skills and Outcomes Across Computer-Based Tasks</strong></a><br>
     Jessica Andrews-Todd, <strong>Yang Jiang</strong>, Jonathan Steinberg, Samuel L. Pugh, Sidney K. D’Mello
@@ -198,7 +228,10 @@ I have led and contributed to numerous large-scale, multi-year research projects
 </div>
 
 <div class="research-entry">
-  <img src="/assets/images/Jiang et al 2018 Book Chapter.png" alt="SRL in VPA">
+  <div class="image-container">
+    <img src="/assets/images/Jiang et al 2018 Book Chapter.png" alt="SRL in VPA">
+    <span class="venue-label">Book Chapter</span>
+  </div>
   <div class="research-entry-text">
     <a href="https://www.researchgate.net/publication/320347696_How_Immersive_Virtual_Environments_Foster_Self-Regulated_Learning"><strong>How Immersive Virtual Environments Foster Self-Regulated Learning</strong></a><br>
     <strong>Yang Jiang</strong>, Jody Clarke-Midura, Ryan S. Baker, Luc Paquette, Bryan Keller
@@ -207,7 +240,10 @@ I have led and contributed to numerous large-scale, multi-year research projects
 </div>
 
 <div class="research-entry">
-  <img src="/assets/images/Jiang et al 2018 Contemporary Educational Psychology.png" alt="Note-Taking in OELE">
+  <div class="image-container">
+    <img src="/assets/images/Jiang et al 2018 Contemporary Educational Psychology.png" alt="Note-Taking in OELE">
+    <span class="venue-label">CEP</span>
+  </div>
   <div class="research-entry-text">
     <a href="http://doi.org/10.1016/j.cedpsych.2018.08.004"><strong>Note-Taking and Science Inquiry in an Open-Ended Learning Environment</strong></a><br>
     <strong>Yang Jiang</strong>, Jody Clarke-Midura, Bryan Keller, Ryan S. Baker, Luc Paquette, Jaclyn Ocumpaugh
