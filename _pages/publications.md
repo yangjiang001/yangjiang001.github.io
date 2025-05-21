@@ -56,7 +56,7 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 
 - **Jiang, Y.**, Beigman Klebanov, B., Livne, O. E., & Hao, J. (2023). [Analyzing users’ interaction with writing feedback and their effects on writing performance](https://doi.org/10.1007/978-3-031-36336-8_72). In N. Wang, G. Rebolledo-Mendez, V. Dimitrova, N. Matsuda, O. C. Santos (Eds.), *Proceedings of the 24th International Conference on Artificial Intelligence in Education* ***(AIED 2023)*** (pp. 466-471). Springer.
 
-- Zhang, J., Ober, T., **Jiang, Y.**, Plass, J., & Homer, B. (2021). [Predicting executive functions in a learning game: Accuracy and reaction time](https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_231.pdf). *Proceedings of the 14th International Conference on Educational Data Mining* ***(EDM 2021)***, 688-693. 🏆**[Won Research and Scholarship Showcase Poster Presentation Award]**
+- Zhang, J., Ober, T., **Jiang, Y.**, Plass, J., & Homer, B. (2021). [Predicting executive functions in a learning game: Accuracy and reaction time](https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_231.pdf). *Proceedings of the 14th International Conference on Educational Data Mining* ***(EDM 2021)***, 688-693. 🏆 **[Won Research and Scholarship Showcase Poster Presentation Award]**
 
 - **Jiang, Y.**, Almeda, V., Kai, S., Baker, R.S., Ostrow, K., Inventado, P., & Scupelli, P. (2020). [Single template vs. multiple templates: Examining the effects of problem structure on performance](https://repository.isls.org/bitstream/1/6288/1/1015-1022.pdf). *Proceedings of the 14th International Conference of the Learning Sciences* ***(ICLS 2020)***, 1015-1022.
 
@@ -64,7 +64,7 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 
 - Andres, A., Ocumpaugh, J., Baker, R.S., Slater, S., Paquette, L., **Jiang, Y.**, Bosch, N., Munshi, A., Moore, A. & Biswas, G. (2019). [Affect sequences and learning in Betty’s Brain](https://doi.org/10.1145/3303772.3303807). *Proceedings of the 9th International Learning Analytics and Knowledge Conference* ***(LAK 2019)***, 383-390.
 
-- **Jiang, Y.**, Bosch, N., Baker, R. S., Paquette, L., Ocumpaugh, J., Andres, J. M. A. L., Moore, A. L., Biswas, G. (2018). [Expert feature-engineering vs. deep neural networks: Which is better for sensor-free affect detection?](https://link.springer.com/chapter/10.1007/978-3-319-93843-1_15) In *Proceedings of the 19th International Conference on Artificial Intelligence in Education* ***(AIED 2018)*** (pp. 198–211). Berlin, Heidelberg: Springer. 🏆**[Won Best Student Paper Award] [Nominated for Best Paper Award]**
+- **Jiang, Y.**, Bosch, N., Baker, R. S., Paquette, L., Ocumpaugh, J., Andres, J. M. A. L., Moore, A. L., Biswas, G. (2018). [Expert feature-engineering vs. deep neural networks: Which is better for sensor-free affect detection?](https://link.springer.com/chapter/10.1007/978-3-319-93843-1_15) In *Proceedings of the 19th International Conference on Artificial Intelligence in Education* ***(AIED 2018)*** (pp. 198–211). Berlin, Heidelberg: Springer. 🏆 **[Won Best Student Paper Award] [Nominated for Best Paper Award]**
 
 - **Jiang, Y.**, Paquette, L., Baker, R.S., Clarke-Midura, J. (2015). [Comparing novice and experienced students in Virtual Performance Assessments](https://files.eric.ed.gov/fulltext/ED560561.pdf). *Proceedings of the 8th International Conference on Educational Data Mining* ***(EDM 2015)*** (pp. 136–143).
 
@@ -80,7 +80,7 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 
 
 ## Workshop Papers
-- Zapata-Rivera, D., Forsyth, C. M., Graf, A., & **Jiang, Y.** (2024). Designing and evaluating evidence-centered design based conversations for assessment with LLMs. ***Proceedings of EDM 2024 Workshop: Leveraging Large Language Models for Next Generation Educational Technologies***.
+- Zapata-Rivera, D., Forsyth, C. M., Graf, A., & **Jiang, Y.** (2024). [Designing and evaluating evidence-centered design based conversations for assessment with LLMs](https://ceur-ws.org/Vol-3840/L3MNGET24_paper3.pdf). ***Proceedings of EDM 2024 Workshop: Leveraging Large Language Models for Next Generation Educational Technologies***.
 
 ## Commissioned Papers and Special Reports
 - **Jiang, Y.**, Cayton-Hodges, G. A., Nabors Oláh, L., & Minchuk, I. (2022). Using student calculator data to make inferences about student problem solving on the grade 8 NAEP 2019 mathematics assessment. ***Report to U.S. Department of Education***.
