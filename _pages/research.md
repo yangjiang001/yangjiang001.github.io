@@ -36,6 +36,9 @@ author_profile: true
   max-width: 100% !important;
 }
 
+.research-entry-text > * + * {
+  margin-top: 0.75rem; /* adds spacing between child elements */
+}
 
 .venue-label {
   position: absolute;
