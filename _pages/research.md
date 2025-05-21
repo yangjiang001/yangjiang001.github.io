@@ -11,6 +11,8 @@ author_profile: true
   display: flex;
   align-items: flex-start;
   margin-bottom: 2rem;
+  position: relative;
+  display: inline-block;
 }
 .research-entry img {
   # width: 400px;
@@ -28,10 +30,7 @@ author_profile: true
   margin-left: 0 !important;
   max-width: 100% !important;
 }
-.image-container {
-  position: relative;
-  display: inline-block;
-}
+
 
 .venue-label {
   position: absolute;
