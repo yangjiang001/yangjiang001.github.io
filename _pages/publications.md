@@ -17,21 +17,21 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 
 - Jiang, Y., Hao, J., Fauss, M., & Li, C. (2024). [Detecting ChatGPT-generated essays in a large-scale writing assessment: Is there a bias against non-native English speakers?](https://doi.org/10.1016/j.compedu.2024.105070) *Computers and Education*, 217, 105070.
 
-Andrews-Todd, J., Jiang, Y., Steinberg, J., Pugh, S., L., & D’Mello, S. K. (2023). Investigating collaborative problem solving skills and outcomes across computer-based tasks. Computers and Education, 207, 104928. https://doi.org/10.1016/j.compedu.2023.104928
+Andrews-Todd, J., Jiang, Y., Steinberg, J., Pugh, S., L., & D’Mello, S. K. (2023). [Investigating collaborative problem solving skills and outcomes across computer-based tasks](https://doi.org/10.1016/j.compedu.2023.104928). *Computers and Education*, 207, 104928.
 
-Jiang, Y., Cayton-Hodges, G. A., Nabors Oláh, L., & Minchuk, I. (2023). Using sequence mining to study students’ calculator use, problem solving, and mathematics achievement in the National Assessment of Educational Progress (NAEP). Computers and Education, 193, 104680. https://doi.org/10.1016/j.compedu.2022.104680
+Jiang, Y., Cayton-Hodges, G. A., Nabors Oláh, L., & Minchuk, I. (2023). [Using sequence mining to study students’ calculator use, problem solving, and mathematics achievement in the National Assessment of Educational Progress (NAEP)](https://doi.org/10.1016/j.compedu.2022.104680). *Computers and Education*, 193, 104680.
 
-Jiang, Y., Martín-Raugh, M., Yang, Z., Hao, J., Liu, L., & Kyllonen, P. C. (2023). Do you know your partner's personality through virtual collaboration or negotiation? Investigating perceptions of personality and their impacts on performance. Computers in Human Behavior, 141, 107608. https://doi.org/10.1016/j.chb.2022.107608
+Jiang, Y., Martín-Raugh, M., Yang, Z., Hao, J., Liu, L., & Kyllonen, P. C. (2023). [Do you know your partner's personality through virtual collaboration or negotiation? Investigating perceptions of personality and their impacts on performance](https://doi.org/10.1016/j.chb.2022.107608). *Computers in Human Behavior*, 141, 107608.
 
-Jiang, Y. & Cayton-Hodges, G. A. (2023). Investigating problem solving on calculator items in a large-scale digitally-based assessment: A data mining approach. Journal for Research in Mathematics Education, 54(2), 118-140. https://doi.org/10.5951/jresematheduc-2020-0290
+Jiang, Y. & Cayton-Hodges, G. A. (2023). [Investigating problem solving on calculator items in a large-scale digitally-based assessment: A data mining approach](https://doi.org/10.5951/jresematheduc-2020-0290). *Journal for Research in Mathematics Education*, 54(2), 118-140.
 
-Gong, T., Shuai, L., Jiang, Y., & Arslan, B. (2023). Using process features to investigate scientific problem-solving in large-scale assessments. Frontiers in Psychology, 14, 1131019. https://doi.org/10.3389/fpsyg.2023.1131019
+Gong, T., Shuai, L., Jiang, Y., & Arslan, B. (2023). [Using process features to investigate scientific problem-solving in large-scale assessments](https://doi.org/10.3389/fpsyg.2023.1131019). *Frontiers in Psychology*, 14, 1131019.
 
-Jiang, Y., Brockway, D. & Moon, J. A., (2023). Incorporating an engineering context into science learning: The effects of task context and response structuring on science understanding and investigation behaviors in a simulation. Journal of Research in Science Teaching, 60(6), 1292-1328. https://doi.org/10.1002/tea.21832
+Jiang, Y., Brockway, D. & Moon, J. A., (2023). [Incorporating an engineering context into science learning: The effects of task context and response structuring on science understanding and investigation behaviors in a simulation](https://doi.org/10.1002/tea.21832). *Journal of Research in Science Teaching*, 60(6), 1292-1328.
 
-Castellano, K., Mikeska, J., Moon, J., Holtzman, S., Gao, J., & Jiang, Y. (2022). Examining preservice elementary teachers' answer changing behavior on a content knowledge for teaching science assessment. Journal of Science Education and Technology, 31, 528-541. doi: 10.1007/s10956-022-09971-2
+Castellano, K., Mikeska, J., Moon, J., Holtzman, S., Gao, J., & Jiang, Y. (2022). [Examining preservice elementary teachers' answer changing behavior on a content knowledge for teaching science assessment](10.1007/s10956-022-09971-2). *Journal of Science Education and Technology*, 31, 528-541.
 
-Gong, T., Jiang, Y., Saldivia, L. E., & Agard, C. (2022). Using Sankey diagrams to visualize drag and drop action sequences in technology-enhanced items. Behavior Research Methods, 54, 117-132. https://doi.org/10.3758/s13428-021-01615-4
+Gong, T., Jiang, Y., Saldivia, L. E., & Agard, C. (2022). [Using Sankey diagrams to visualize drag and drop action sequences in technology-enhanced items](https://doi.org/10.3758/s13428-021-01615-4). *Behavior Research Methods*, 54, 117-132.
 
 Jiang, Y., Gong, T., Saldivia, L.E., Cayton-Hodges, G., Agard, C. (2021). Using process data to understand problem-solving strategies and processes for drag-and-drop items in a large-scale mathematics assessment. Large-Scale Assessments in Education, 9(2), 1-31. https://doi.org/10.1186/s40536-021-00095-4
 
