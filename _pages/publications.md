@@ -11,33 +11,33 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 
 ## Journal Articles
 
-- Jiang, Y., Beigman Klebanov, B., Hao, J., Deane, P., & Livne, O. E. (2025). [Unveiling patterns of interaction with automated feedback in Writing Mentor and their relationships with use goals and writing outcomes](https://doi.org/10.1111/jcal.70014). *Journal of Computer Assisted Learning*, 41(2). e70014.
+- **Jiang, Y.**, Beigman Klebanov, B., Hao, J., Deane, P., & Livne, O. E. (2025). [Unveiling patterns of interaction with automated feedback in Writing Mentor and their relationships with use goals and writing outcomes](https://doi.org/10.1111/jcal.70014). *Journal of Computer Assisted Learning*, 41(2). e70014.
 
-- Jiang, Y., Zhang, M., Hao, J., Deane, P., & Li, C. (2024). [Using keystroke behavior patterns to detect nonauthentic texts in writing assessments: Evaluating the fairness of predictive models](https://doi.org/10.1111/jedm.12416). *Journal of Educational Measurement*, 61(4), 571-594. 
+- **Jiang, Y.**, Zhang, M., Hao, J., Deane, P., & Li, C. (2024). [Using keystroke behavior patterns to detect nonauthentic texts in writing assessments: Evaluating the fairness of predictive models](https://doi.org/10.1111/jedm.12416). *Journal of Educational Measurement*, 61(4), 571-594. 
 
-- Jiang, Y., Hao, J., Fauss, M., & Li, C. (2024). [Detecting ChatGPT-generated essays in a large-scale writing assessment: Is there a bias against non-native English speakers?](https://doi.org/10.1016/j.compedu.2024.105070) *Computers and Education*, 217, 105070.
+- **Jiang, Y.**, Hao, J., Fauss, M., & Li, C. (2024). [Detecting ChatGPT-generated essays in a large-scale writing assessment: Is there a bias against non-native English speakers?](https://doi.org/10.1016/j.compedu.2024.105070) *Computers and Education*, 217, 105070.
 
-Andrews-Todd, J., Jiang, Y., Steinberg, J., Pugh, S., L., & D’Mello, S. K. (2023). [Investigating collaborative problem solving skills and outcomes across computer-based tasks](https://doi.org/10.1016/j.compedu.2023.104928). *Computers and Education*, 207, 104928.
+- Andrews-Todd, J., **Jiang, Y.**, Steinberg, J., Pugh, S., L., & D’Mello, S. K. (2023). [Investigating collaborative problem solving skills and outcomes across computer-based tasks](https://doi.org/10.1016/j.compedu.2023.104928). *Computers and Education*, 207, 104928.
 
-Jiang, Y., Cayton-Hodges, G. A., Nabors Oláh, L., & Minchuk, I. (2023). [Using sequence mining to study students’ calculator use, problem solving, and mathematics achievement in the National Assessment of Educational Progress (NAEP)](https://doi.org/10.1016/j.compedu.2022.104680). *Computers and Education*, 193, 104680.
+- **Jiang, Y.**, Cayton-Hodges, G. A., Nabors Oláh, L., & Minchuk, I. (2023). [Using sequence mining to study students’ calculator use, problem solving, and mathematics achievement in the National Assessment of Educational Progress (NAEP)](https://doi.org/10.1016/j.compedu.2022.104680). *Computers and Education*, 193, 104680.
 
-Jiang, Y., Martín-Raugh, M., Yang, Z., Hao, J., Liu, L., & Kyllonen, P. C. (2023). [Do you know your partner's personality through virtual collaboration or negotiation? Investigating perceptions of personality and their impacts on performance](https://doi.org/10.1016/j.chb.2022.107608). *Computers in Human Behavior*, 141, 107608.
+- **Jiang, Y.**, Martín-Raugh, M., Yang, Z., Hao, J., Liu, L., & Kyllonen, P. C. (2023). [Do you know your partner's personality through virtual collaboration or negotiation? Investigating perceptions of personality and their impacts on performance](https://doi.org/10.1016/j.chb.2022.107608). *Computers in Human Behavior*, 141, 107608.
 
-Jiang, Y. & Cayton-Hodges, G. A. (2023). [Investigating problem solving on calculator items in a large-scale digitally-based assessment: A data mining approach](https://doi.org/10.5951/jresematheduc-2020-0290). *Journal for Research in Mathematics Education*, 54(2), 118-140.
+- **Jiang, Y.** & Cayton-Hodges, G. A. (2023). [Investigating problem solving on calculator items in a large-scale digitally-based assessment: A data mining approach](https://doi.org/10.5951/jresematheduc-2020-0290). *Journal for Research in Mathematics Education*, 54(2), 118-140.
 
-Gong, T., Shuai, L., Jiang, Y., & Arslan, B. (2023). [Using process features to investigate scientific problem-solving in large-scale assessments](https://doi.org/10.3389/fpsyg.2023.1131019). *Frontiers in Psychology*, 14, 1131019.
+- Gong, T., Shuai, L., **Jiang, Y.**, & Arslan, B. (2023). [Using process features to investigate scientific problem-solving in large-scale assessments](https://doi.org/10.3389/fpsyg.2023.1131019). *Frontiers in Psychology*, 14, 1131019.
 
-Jiang, Y., Brockway, D. & Moon, J. A., (2023). [Incorporating an engineering context into science learning: The effects of task context and response structuring on science understanding and investigation behaviors in a simulation](https://doi.org/10.1002/tea.21832). *Journal of Research in Science Teaching*, 60(6), 1292-1328.
+- **Jiang, Y.**, Brockway, D. & Moon, J. A., (2023). [Incorporating an engineering context into science learning: The effects of task context and response structuring on science understanding and investigation behaviors in a simulation](https://doi.org/10.1002/tea.21832). *Journal of Research in Science Teaching*, 60(6), 1292-1328.
 
-Castellano, K., Mikeska, J., Moon, J., Holtzman, S., Gao, J., & Jiang, Y. (2022). [Examining preservice elementary teachers' answer changing behavior on a content knowledge for teaching science assessment](10.1007/s10956-022-09971-2). *Journal of Science Education and Technology*, 31, 528-541.
+- Castellano, K., Mikeska, J., Moon, J., Holtzman, S., Gao, J., & **Jiang, Y.** (2022). [Examining preservice elementary teachers' answer changing behavior on a content knowledge for teaching science assessment](10.1007/s10956-022-09971-2). *Journal of Science Education and Technology*, 31, 528-541.
 
-Gong, T., Jiang, Y., Saldivia, L. E., & Agard, C. (2022). [Using Sankey diagrams to visualize drag and drop action sequences in technology-enhanced items](https://doi.org/10.3758/s13428-021-01615-4). *Behavior Research Methods*, 54, 117-132.
+- Gong, T., **Jiang, Y.**, Saldivia, L. E., & Agard, C. (2022). [Using Sankey diagrams to visualize drag and drop action sequences in technology-enhanced items](https://doi.org/10.3758/s13428-021-01615-4). *Behavior Research Methods*, 54, 117-132.
 
-Jiang, Y., Gong, T., Saldivia, L.E., Cayton-Hodges, G., Agard, C. (2021). Using process data to understand problem-solving strategies and processes for drag-and-drop items in a large-scale mathematics assessment. Large-Scale Assessments in Education, 9(2), 1-31. https://doi.org/10.1186/s40536-021-00095-4
+- **Jiang, Y.**, Gong, T., Saldivia, L.E., Cayton-Hodges, G., Agard, C. (2021). [Using process data to understand problem-solving strategies and processes for drag-and-drop items in a large-scale mathematics assessment](https://doi.org/10.1186/s40536-021-00095-4). *Large-Scale Assessments in Education*, 9(2), 1-31.
 
-Arslan, B., Jiang, Y., Keehner, M., Gong, T., Katz, I. R., & Yan, F. (2020). The effect of drag-and-drop item features on test-taker performance and response strategies. Educational Measurement: Issues and Practice, 39(2), 96-106. [Recognized as a top cited article in 2020-2021 by Wiley]
+- Arslan, B., **Jiang, Y.**, Keehner, M., Gong, T., Katz, I. R., & Yan, F. (2020). [The effect of drag-and-drop item features on test-taker performance and response strategies](https://www.researchgate.net/publication/339881499_The_Effect_of_Drag-and-Drop_Item_Features_on_Test-Taker_Performance_and_Response_Strategies). *Educational Measurement: Issues and Practice*, 39(2), 96-106. [Recognized as a top cited article in 2020-2021 by Wiley]
 
-Jiang, Y., Clarke-Midura, J., Keller, B., Baker, R. S., Paquette, L., & Ocumpaugh, J. (2018). Note-taking and science inquiry in an open-ended learning environment. Contemporary Educational Psychology, 55, 12–29.
+- **Jiang, Y.**, Clarke-Midura, J., Keller, B., Baker, R. S., Paquette, L., & Ocumpaugh, J. (2018). [Note-taking and science inquiry in an open-ended learning environment](https://doi.org/10.1016/j.cedpsych.2018.08.004). *Contemporary Educational Psychology*, 55, 12–29.
 
 
 ## Conference Papers in Stringently Refereed Proceedings
