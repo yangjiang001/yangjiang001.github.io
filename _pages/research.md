@@ -39,11 +39,11 @@ author_profile: true
 
 .venue-label {
   position: absolute;
-  top: 8px; /* 10 px */
-  left: 8px; /* 10 px */
+  top: 6px; /* 10 px */
+  left: 6px; /* 10 px */
   background-color: rgba(13, 40, 216, 0.7); /* semi-transparent black  rgba(0, 0, 0, 0.7); */
   color: #fff;;
-  font-size: 0.75rem;/*12px*/
+  font-size: 0.65rem;/*12px*/
   padding: 2px 6px; /*2px 8px*/
   border-radius: 4px;
   font-weight: bold;
