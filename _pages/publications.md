@@ -11,7 +11,7 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 
 ## Journal Articles
 
-- Jiang, Y., Beigman Klebanov, B., Hao, J., Deane, P., & Livne, O. E. (2025). Unveiling patterns of interaction with automated feedback in Writing Mentor and their relationships with use goals and writing outcomes. Journal of Computer Assisted Learning, 41(2). e70014. https://doi.org/10.1111/jcal.70014
+- Jiang, Y., Beigman Klebanov, B., Hao, J., Deane, P., & Livne, O. E. (2025). [Unveiling patterns of interaction with automated feedback in Writing Mentor and their relationships with use goals and writing outcomes] (https://doi.org/10.1111/jcal.70014). *Journal of Computer Assisted Learning*, 41(2). e70014.
 
 - Jiang, Y., Zhang, M., Hao, J., Deane, P., & Li, C. (2024). Using keystroke behavior patterns to detect nonauthentic texts in writing assessments: Evaluating the fairness of predictive models. Journal of Educational Measurement, 61(4), 571-594. https://doi.org/10.1111/jedm.12416
 
