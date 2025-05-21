@@ -9,13 +9,13 @@ classes: wide
 Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRHRoAAAAJ&hl=en&oi=ao) page for a complete list of my publications.
 
 
-Journal Articles
+## Journal Articles
 
-Jiang, Y., Beigman Klebanov, B., Hao, J., Deane, P., & Livne, O. E. (2025). Unveiling patterns of interaction with automated feedback in Writing Mentor and their relationships with use goals and writing outcomes. Journal of Computer Assisted Learning, 41(2). e70014. https://doi.org/10.1111/jcal.70014
+- Jiang, Y., Beigman Klebanov, B., Hao, J., Deane, P., & Livne, O. E. (2025). Unveiling patterns of interaction with automated feedback in Writing Mentor and their relationships with use goals and writing outcomes. Journal of Computer Assisted Learning, 41(2). e70014. https://doi.org/10.1111/jcal.70014
 
-Jiang, Y., Zhang, M., Hao, J., Deane, P., & Li, C. (2024). Using keystroke behavior patterns to detect nonauthentic texts in writing assessments: Evaluating the fairness of predictive models. Journal of Educational Measurement, 61(4), 571-594. https://doi.org/10.1111/jedm.12416
+- Jiang, Y., Zhang, M., Hao, J., Deane, P., & Li, C. (2024). Using keystroke behavior patterns to detect nonauthentic texts in writing assessments: Evaluating the fairness of predictive models. Journal of Educational Measurement, 61(4), 571-594. https://doi.org/10.1111/jedm.12416
 
-Jiang, Y., Hao, J., Fauss, M., & Li, C. (2024). Detecting ChatGPT-generated essays in a large-scale writing assessment: Is there a bias against non-native English speakers? Computers and Education, 217, 105070. https://doi.org/10.1016/j.compedu.2024.105070
+- Jiang, Y., Hao, J., Fauss, M., & Li, C. (2024). Detecting ChatGPT-generated essays in a large-scale writing assessment: Is there a bias against non-native English speakers? Computers and Education, 217, 105070. https://doi.org/10.1016/j.compedu.2024.105070
 
 Andrews-Todd, J., Jiang, Y., Steinberg, J., Pugh, S., L., & D’Mello, S. K. (2023). Investigating collaborative problem solving skills and outcomes across computer-based tasks. Computers and Education, 207, 104928. https://doi.org/10.1016/j.compedu.2023.104928
 
@@ -40,7 +40,7 @@ Arslan, B., Jiang, Y., Keehner, M., Gong, T., Katz, I. R., & Yan, F. (2020). The
 Jiang, Y., Clarke-Midura, J., Keller, B., Baker, R. S., Paquette, L., & Ocumpaugh, J. (2018). Note-taking and science inquiry in an open-ended learning environment. Contemporary Educational Psychology, 55, 12–29.
 
 
-Conference Papers in Stringently Refereed Proceedings
+## Conference Papers in Stringently Refereed Proceedings
 Jiang, Y., Hao, J., Cui, W., Kerzabi, E., & Kyllonen, P. (2025). Uncovering transferable collaboration patterns across tasks using large language models. Proceedings of the 26th International Conference on Artificial Intelligence in Education (AIED 2025).
 
 Hou, X., Forsyth, C. M., Andrews-Todd, J., Rice, J., Cai, Z., Jiang, Y., Zapata-Rivera, D., & Graesser, A. C. (2025). An LLM-enhanced multi-agent architecture for conversation-based assessment. Proceedings of the 26th International Conference on Artificial Intelligence in Education (AIED 2025).
@@ -72,14 +72,14 @@ Sao Pedro, M., Jiang, Y., Paquette, L., Baker, R.S., Gobert, J. (2014). Identify
 Jiang, Y. (2014). Design of invention-based simulations as preparation for future learning. Proceedings of Teachers College Educational Technology Conference (TCETC), New York, NY.
 
 
-Book chapters
+## Book chapters
 Jiang, Y., Clarke-Midura, J., Baker, R. S., Paquette, L., & Keller, B. (2018). How immersive virtual environments foster self-regulated learning. In R. Zheng (Ed.), Digital technologies and instructional design for personalized learning (pp. 28–54). Hershey, PA: IGI Global.
 
 
-Workshop Papers
+## Workshop Papers
 Zapata-Rivera, D., Forsyth, C. M., Graf, A., & Jiang, Y. (2024). Designing and evaluating evidence-centered design based conversations for assessment with LLMs. Proceedings of EDM 2024 Workshop: Leveraging Large Language Models for Next Generation Educational Technologies.
 
-Commissioned Papers and Special Reports
+## Commissioned Papers and Special Reports
 Jiang, Y., Cayton-Hodges, G. A., Nabors Oláh, L., & Minchuk, I. (2022). Using student calculator data to make inferences about student problem solving on the grade 8 NAEP 2019 mathematics assessment. Report to U.S. Department of Education.
 
 NAEP Reporting Task Force White Paper. Submitted to U.S. Department of Education. (2020)
@@ -88,5 +88,5 @@ NAEP Science ICT Process Data Analyses Report. Submitted to U.S. Department of E
 
 NAEP Special Study SBT-DI Task Report. Submitted to U.S. Department of Education. (2018)
 
-Preprints
+## Preprints
 Zhang, L., Lin, J., Sabatini, J., Zapata-Rivera, D., Forsyth, C., Jiang, Y., Hollander, J., Hu, X., & Graesser, A. C. (2025). Generative data imputation for sparse learner performance data using generative adversarial imputation networks. ArXiv. https://doi.org/10.48550/arXiv.2503.18982
