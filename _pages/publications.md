@@ -35,7 +35,7 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 
 - **Jiang, Y.**, Gong, T., Saldivia, L.E., Cayton-Hodges, G., Agard, C. (2021). [Using process data to understand problem-solving strategies and processes for drag-and-drop items in a large-scale mathematics assessment](https://doi.org/10.1186/s40536-021-00095-4). ***Large-Scale Assessments in Education***, 9(2), 1-31.
 
-- Arslan, B., **Jiang, Y.**, Keehner, M., Gong, T., Katz, I. R., & Yan, F. (2020). [The effect of drag-and-drop item features on test-taker performance and response strategies](https://www.researchgate.net/publication/339881499_The_Effect_of_Drag-and-Drop_Item_Features_on_Test-Taker_Performance_and_Response_Strategies). ***Educational Measurement: Issues and Practice***, 39(2), 96-106. [Recognized as a top cited article in 2020-2021 by Wiley]
+- Arslan, B., **Jiang, Y.**, Keehner, M., Gong, T., Katz, I. R., & Yan, F. (2020). [The effect of drag-and-drop item features on test-taker performance and response strategies](https://www.researchgate.net/publication/339881499_The_Effect_of_Drag-and-Drop_Item_Features_on_Test-Taker_Performance_and_Response_Strategies). ***Educational Measurement: Issues and Practice***, 39(2), 96-106. 🏆 **[Recognized as a top cited article in 2020-2021 by Wiley]**
 
 - **Jiang, Y.**, Clarke-Midura, J., Keller, B., Baker, R. S., Paquette, L., & Ocumpaugh, J. (2018). [Note-taking and science inquiry in an open-ended learning environment](https://doi.org/10.1016/j.cedpsych.2018.08.004). ***Contemporary Educational Psychology***, 55, 12–29.
 
@@ -56,7 +56,7 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 
 - **Jiang, Y.**, Beigman Klebanov, B., Livne, O. E., & Hao, J. (2023). [Analyzing users’ interaction with writing feedback and their effects on writing performance](https://doi.org/10.1007/978-3-031-36336-8_72). In N. Wang, G. Rebolledo-Mendez, V. Dimitrova, N. Matsuda, O. C. Santos (Eds.), *Proceedings of the 24th International Conference on Artificial Intelligence in Education* ***(AIED 2023)*** (pp. 466-471). Springer.
 
-- Zhang, J., Ober, T., **Jiang, Y.**, Plass, J., & Homer, B. (2021). [Predicting executive functions in a learning game: Accuracy and reaction time](https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_231.pdf). *Proceedings of the 14th International Conference on Educational Data Mining* ***(EDM 2021)***, 688-693. **[Won Research and Scholarship Showcase Poster Presentation Award]**
+- Zhang, J., Ober, T., **Jiang, Y.**, Plass, J., & Homer, B. (2021). [Predicting executive functions in a learning game: Accuracy and reaction time](https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_231.pdf). *Proceedings of the 14th International Conference on Educational Data Mining* ***(EDM 2021)***, 688-693. 🏆**[Won Research and Scholarship Showcase Poster Presentation Award]**
 
 - **Jiang, Y.**, Almeda, V., Kai, S., Baker, R.S., Ostrow, K., Inventado, P., & Scupelli, P. (2020). [Single template vs. multiple templates: Examining the effects of problem structure on performance](https://repository.isls.org/bitstream/1/6288/1/1015-1022.pdf). *Proceedings of the 14th International Conference of the Learning Sciences* ***(ICLS 2020)***, 1015-1022.
 
@@ -64,7 +64,7 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 
 - Andres, A., Ocumpaugh, J., Baker, R.S., Slater, S., Paquette, L., **Jiang, Y.**, Bosch, N., Munshi, A., Moore, A. & Biswas, G. (2019). [Affect sequences and learning in Betty’s Brain](https://doi.org/10.1145/3303772.3303807). *Proceedings of the 9th International Learning Analytics and Knowledge Conference* ***(LAK 2019)***, 383-390.
 
-- **Jiang, Y.**, Bosch, N., Baker, R. S., Paquette, L., Ocumpaugh, J., Andres, J. M. A. L., Moore, A. L., Biswas, G. (2018). [Expert feature-engineering vs. deep neural networks: Which is better for sensor-free affect detection?](https://link.springer.com/chapter/10.1007/978-3-319-93843-1_15) In *Proceedings of the 19th International Conference on Artificial Intelligence in Education* ***(AIED 2018)*** (pp. 198–211). Berlin, Heidelberg: Springer. **[Won Best Student Paper Award] [Nominated for Best Paper Award]**
+- **Jiang, Y.**, Bosch, N., Baker, R. S., Paquette, L., Ocumpaugh, J., Andres, J. M. A. L., Moore, A. L., Biswas, G. (2018). [Expert feature-engineering vs. deep neural networks: Which is better for sensor-free affect detection?](https://link.springer.com/chapter/10.1007/978-3-319-93843-1_15) In *Proceedings of the 19th International Conference on Artificial Intelligence in Education* ***(AIED 2018)*** (pp. 198–211). Berlin, Heidelberg: Springer. 🏆**[Won Best Student Paper Award] [Nominated for Best Paper Award]**
 
 - **Jiang, Y.**, Paquette, L., Baker, R.S., Clarke-Midura, J. (2015). [Comparing novice and experienced students in Virtual Performance Assessments](https://files.eric.ed.gov/fulltext/ED560561.pdf). *Proceedings of the 8th International Conference on Educational Data Mining* ***(EDM 2015)*** (pp. 136–143).
 
@@ -76,7 +76,7 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 
 
 ## Book chapters
-- **Jiang, Y.**, Clarke-Midura, J., Baker, R. S., Paquette, L., & Keller, B. (2018). How immersive virtual environments foster self-regulated learning. In R. Zheng (Ed.), ***Digital technologies and instructional design for personalized learning*** (pp. 28–54). Hershey, PA: IGI Global.
+- **Jiang, Y.**, Clarke-Midura, J., Baker, R. S., Paquette, L., & Keller, B. (2018). [How immersive virtual environments foster self-regulated learning](10.4018/978-1-5225-3940-7.ch002). In R. Zheng (Ed.), ***Digital technologies and instructional design for personalized learning*** (pp. 28–54). Hershey, PA: IGI Global.
 
 
 ## Workshop Papers
