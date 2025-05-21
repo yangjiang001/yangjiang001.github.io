@@ -131,7 +131,7 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/yang-jiang-bb60b723/"
     - label: "ResearchGate"
-      icon: "fab fa-researchgate"
+      icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Yang-Jiang-45?ev=hdr_xprf"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
