@@ -11,8 +11,6 @@ author_profile: true
   display: flex;
   align-items: flex-start;
   margin-bottom: 2rem;
-  position: relative;
-  display: inline-block;
 }
 .image-container {
   position: relative;
@@ -69,7 +67,7 @@ I am passionate about developing and applying educational data mining and learni
   <div class="image-container">
     <img src="/assets/images/Jiang et al 2025 Journal of Computer Assisted Learning.png" alt="Automated Writing Feedback">
     <span class="venue-label">Computers & Education</span>
-  </div>div>
+  </div>
   <div class="research-entry-text">
     <a href="https://doi.org/10.1111/jcal.70014"><strong>Unveiling Patterns of Interaction with Automated Feedback in Writing Mentor and Their Relationships with Use Goals and Writing Outcomes</strong><br></a>
     <strong>Yang Jiang</strong>, Beata Beigman Klebanov, Jiangang Hao, Paul Deane, Oren E. Livne
