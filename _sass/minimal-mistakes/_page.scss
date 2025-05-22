@@ -66,8 +66,8 @@ body {
 
 .page__title {
   margin-top: 0;
-  margin-bottom: 3rem;
-  line-height: 1;
+  /*  margin-bottom: 3rem; */
+  line-height: 1.6; /*1;*/
 
   a {
     color: $text-color;
