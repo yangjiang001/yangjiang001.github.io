@@ -117,7 +117,7 @@ author:
   avatar           : "/assets/images/YangJiangSquare.png"
   bio              : "Research Scientist @ ETS <br>AI, Education, Psychology, and Technology"
   location         : "Princeton, NJ"
-  email            :
+  email            : "yjiang002@ets.org"
   links:
     - label: "Google Scholar"
       icon: "fa-brands fa-google-scholar"
