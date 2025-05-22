@@ -9,7 +9,7 @@ classes: wide
 <style>
   /* size relative to your root font (usually 16px) */
   .news-list {
-    font-size: 0.925rem;  /* ~14px */
+    font-size: 0.9rem;  /* ~14px */
     line-height: 1.4;     /* adjust spacing if you like */
     margin-bottom: 2rem;  /* give the whole block some breathing room */
   }
