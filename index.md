@@ -9,7 +9,7 @@ classes: wide
 <style>
   /* size relative to your root font (usually 16px) */
   .news-list {
-    font-size: 0.875rem;  /* ~14px */
+    font-size: 0.925rem;  /* ~14px */
     line-height: 1.4;     /* adjust spacing if you like */
     margin-bottom: 2rem;  /* give the whole block some breathing room */
   }
@@ -31,13 +31,12 @@ Feel free to contact me at [yjiang002@ets.org](mailto:yjiang002@ets.org) if you�
 
 ## 📢 Recent News
 
-<ul class="news-list">
-	- **May 2025** — Honored to receive the [Alumni Council Award for Impact in Education](https://www.gse.harvard.edu/ideas/news/25/05/tutwiler-jiang-receive-alumni-council-awards) from Harvard Graduate School of Education 🎉  
-	- **April 2025** — Our latest [article](https://doi.org/10.1111/jedm.12416), "Using keystroke behavior patterns to detect nonauthentic texts in writing assessments: Evaluating the fairness of predictive models," was published in the *Journal of Educational Measurement*.  
-	- **April 2025** — Thrilled that our full paper, "Uncovering transferable collaboration patterns across tasks using large language models," was accepted by the 26th International Conference on Artificial Intelligence in Education (AIED 2025). 🎉
-	- **March 2025** — Excited to serve as [Industry Track Chair](https://educationaldatamining.org/edm2025/organizing-committee/) at the 2025 International Conference on Educational Data Mining (EDM).  
-	- **March 2025** — Our paper, "Using epistemic network analysis and sequential pattern mining to explore the impacts of human facilitation on collaborative mathematical problem solving," was accepted as a full paper at the Annual Meeting of the International Society of the Learning Sciences (ISLS 2025). 🎉  
-	- **February 2025** — Our [article](https://doi.org/10.1111/jcal.70014) was published in the *Journal of Computer Assisted Learning*: "Unveiling patterns of interaction with automated feedback in Writing Mentor and their relationships with use goals and writing outcomes" 🎉
-	- **September 2024** — Co-organized a workshop on “Innovations in Methodologies to Understand and Learn from Learner and Group Behaviors on Large-Scale Assessments” at the 49th Annual International Association for Educational Assessment (IAEA) Conference.
-</ul>
+- **May 2025** — Honored to receive the [Alumni Council Award for Impact in Education](https://www.gse.harvard.edu/ideas/news/25/05/tutwiler-jiang-receive-alumni-council-awards) from Harvard Graduate School of Education 🎉  
+- **April 2025** — Our latest [article](https://doi.org/10.1111/jedm.12416), "Using keystroke behavior patterns to detect nonauthentic texts in writing assessments: Evaluating the fairness of predictive models," was published in the *Journal of Educational Measurement*.  
+- **April 2025** — Thrilled that our full paper, "Uncovering transferable collaboration patterns across tasks using large language models," was accepted by the 26th International Conference on Artificial Intelligence in Education (AIED 2025). 🎉
+- **March 2025** — Excited to serve as [Industry Track Chair](https://educationaldatamining.org/edm2025/organizing-committee/) at the 2025 International Conference on Educational Data Mining (EDM).  
+- **March 2025** — Our paper, "Using epistemic network analysis and sequential pattern mining to explore the impacts of human facilitation on collaborative mathematical problem solving," was accepted as a full paper at the Annual Meeting of the International Society of the Learning Sciences (ISLS 2025). 🎉  
+- **February 2025** — Our [article](https://doi.org/10.1111/jcal.70014) was published in the *Journal of Computer Assisted Learning*: "Unveiling patterns of interaction with automated feedback in Writing Mentor and their relationships with use goals and writing outcomes" 🎉
+- **September 2024** — Co-organized a workshop on “Innovations in Methodologies to Understand and Learn from Learner and Group Behaviors on Large-Scale Assessments” at the 49th Annual International Association for Educational Assessment (IAEA) Conference.
+{: .news-list}
 
