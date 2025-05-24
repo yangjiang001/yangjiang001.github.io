@@ -21,7 +21,7 @@ title                    : "Yang Jiang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yang Jiang"
-description              : "Yang Jiang, Research Scientist at ETS | AI, Education, and Learning Analytics"
+description              : "Dr. Yang Jiang is a Research Scientist at the ETS Research Institute. Her research focuses on developing and applying AI and data science methods to explore how learners interact with technology-based learning and assessment systems, and how the interactions relate to cognition and learning. She has a Ph.D. in Cognitive Science in Education from Columbia University, and an Ed.M. in Technology, Innovation, and Education from Harvard University. This site features her research, publications, and projects at the intersection of AI, education, psychology, and technology."
 url                      : "https://yangjiang.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
