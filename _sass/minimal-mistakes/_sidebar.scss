@@ -179,6 +179,7 @@
   margin: 0;  
   font-style: italic;
   font-size: 0.875em; // $type-size-5;
+  line-height: 1.5;
 
   @include breakpoint($large) {
     margin-top: 10px;
