@@ -21,7 +21,7 @@ title                    : "Yang Jiang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yang Jiang"
-description              : "Research Scientist at ETS | AI, Education, and Learning Analytics"
+description              : "Yang Jiang, Research Scientist at ETS | AI, Education, and Learning Analytics"
 url                      : "https://yangjiang.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
