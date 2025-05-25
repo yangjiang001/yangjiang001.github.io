@@ -4,6 +4,10 @@ title: "About Me"
 permalink: /
 author_profile: true
 classes: wide
+seo:
+  title: "Yang Jiang – Research, AI, and Education"
+  description: "Official site of Dr. Yang Jiang, Research Scientist at ETS. Exploring at the intersection of AI, education, psychology, and technology."
+
 ---
 
 <style>
