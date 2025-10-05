@@ -86,4 +86,4 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 ## Preprints
 - Zhang, L., Lin, J., Sabatini, J., Zapata-Rivera, D., Forsyth, C., **Jiang, Y.**, Hollander, J., Hu, X., & Graesser, A. C. (2025). Generative data imputation for sparse learner performance data using generative adversarial imputation networks. ***[ArXiv](https://doi.org/10.48550/arXiv.2503.18982)***.
 
-- Zhang, L., Yeasin, M., Havugimana., F., Lin, J., Zapata-Rivera, D., Forsyth, C., **Jiang, Y.**, Hu, X., & Graesser, A. C. (2025). Bridging global pretraining and similarity-based local fine-tuning in GAIN for robust imputation of sparse learner performance data. ***[TechRxiv](10.36227/techrxiv.175607180.00548755/v1)***
+- Zhang, L., Yeasin, M., Havugimana., F., Lin, J., Zapata-Rivera, D., Forsyth, C., **Jiang, Y.**, Hu, X., & Graesser, A. C. (2025). Bridging global pretraining and similarity-based local fine-tuning in GAIN for robust imputation of sparse learner performance data. ***[TechRxiv](http://10.36227/techrxiv.175607180.00548755/v1)***

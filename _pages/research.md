@@ -189,7 +189,7 @@ I have led and contributed to numerous large-scale, multi-year research projects
     <span class="venue-label">AIED</span>
   </div>
   <div class="research-entry-text">
-    <a href="ttps://doi.org/10.1007/978-3-031-98417-4_23"><strong>Uncovering Transferable Collaboration Patterns Across Tasks Using Large Language Models</strong><br></a>
+    <a href="https://doi.org/10.1007/978-3-031-98417-4_23"><strong>Uncovering Transferable Collaboration Patterns Across Tasks Using Large Language Models</strong><br></a>
     <strong>Yang Jiang</strong>, Jiangang Hao, Wenju Cui, Emily Kerzabi, Patrick Kyllonen
     <br><em>Proceedings of the 26th International Conference on Artificial Intelligence in Education (AIED 2025)</em>
   </div>
