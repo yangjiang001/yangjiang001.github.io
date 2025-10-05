@@ -55,7 +55,7 @@ author_profile: true
 </style>
 
 
-My research is at the intersection of AI, education, psychology, and technology. Specifically, my research is centered around:
+My research is at the intersection of AI, data science, education, psychology, and technology. Specifically, my research is centered around:
 
 - Developing and applying educational data mining and learning analytics methods on process data to explore how learners interact with technology-based learning and assessment systems, and how these interactions relate to cognition and learning,
 - Ensuring fairness in AI and data science methods used in education, and
