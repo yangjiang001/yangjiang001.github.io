@@ -65,7 +65,7 @@ My research is at the intersection of AI, education, psychology, and technology.
 
 ## Educational Data Mining and Learning Analytics on Process Data
 
-I am passionate about developing and applying educational data mining and learning analytics methods on process data to explore how learners interact with technology-based assessments and learning systems, and how the interactions are related to cognition and learning. My work often involves analyzing the wealth of process data (e.g., log files, text chats, audio, video) obtained from various types of systems, including large-scale educational assessments, intelligent tutoring systems, simulations, educational games, and virtual environments. For example, in a series of studies using data from NAEP’s digitally based assessments, we investigate test-takers’ cognitive and metacognitive processes and problem-solving strategies by integrating process data, response data, and survey questionnaire data. To uncover patterns in learner behavior and cognition, I apply advanced methods including sequence mining, feature engineering, cluster analysis, social network analysis, hidden Markov models, and visualization techniques like Sankey diagrams to make visible what is often hidden in traditional assessments. Below are select projects related to this line of work.<br>
+I am passionate about developing and applying educational data mining and learning analytics methods on process data to explore how learners interact with technology-based assessments and learning systems, and how the interactions are related to cognition and learning. My work often involves analyzing the wealth of multimodal process data (e.g., log files, text chats, audio, video) obtained from various types of systems, including large-scale educational assessments, intelligent tutoring systems, simulations, educational games, and virtual environments. For example, in a series of studies using data from NAEP’s digitally based assessments, we investigate test-takers’ cognitive and metacognitive processes and problem-solving strategies by integrating process data, response data, and survey questionnaire data. To uncover patterns in learner behavior and cognition, I apply advanced methods including sequence mining, feature engineering, cluster analysis, social network analysis, hidden Markov models, and visualization techniques like Sankey diagrams to make visible what is often hidden in traditional assessments. Below are select projects related to this line of work.<br>
 
 
 <div class="research-entry">
@@ -189,7 +189,7 @@ I have led and contributed to numerous large-scale, multi-year research projects
     <span class="venue-label">AIED</span>
   </div>
   <div class="research-entry-text">
-    <a href="https://doi.org/10.1111/jcal.70014"><strong>Uncovering Transferable Collaboration Patterns Across Tasks Using Large Language Models</strong><br></a>
+    <a href="ttps://doi.org/10.1007/978-3-031-98417-4_23"><strong>Uncovering Transferable Collaboration Patterns Across Tasks Using Large Language Models</strong><br></a>
     <strong>Yang Jiang</strong>, Jiangang Hao, Wenju Cui, Emily Kerzabi, Patrick Kyllonen
     <br><em>Proceedings of the 26th International Conference on Artificial Intelligence in Education (AIED 2025)</em>
   </div>
@@ -201,7 +201,7 @@ I have led and contributed to numerous large-scale, multi-year research projects
     <span class="venue-label">ISLS</span>
   </div>
   <div class="research-entry-text">
-    <a href="https://doi.org/10.1016/j.compedu.2022.104680"><strong>Using Epistemic Network Analysis and Sequential Pattern Mining to Explore the Impacts of Human Facilitation on Collaborative Mathematical Problem Solving</strong></a><br>
+    <a href="https://doi.org/10.22318/cscl2025.352932"><strong>Using Epistemic Network Analysis and Sequential Pattern Mining to Explore the Impacts of Human Facilitation on Collaborative Mathematical Problem Solving</strong></a><br>
     <strong>Yang Jiang</strong>, Edith Aurora Graf, Jessica Andrews-Todd 
     <br><em>Proceedings of the Annual Meeting of the International Society of the Learning Sciences (ISLS 2025)</em>
   </div>

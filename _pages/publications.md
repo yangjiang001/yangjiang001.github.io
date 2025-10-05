@@ -42,13 +42,13 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 
 ## Conference Papers in Stringently Refereed Proceedings
 
-- **Jiang, Y.**, Hao, J., Cui, W., Kerzabi, E., & Kyllonen, P. (2025). Uncovering transferable collaboration patterns across tasks using large language models. *Proceedings of the 26th International Conference on Artificial Intelligence in Education* ***(AIED 2025)***.
+- **Jiang, Y.**, Hao, J., Cui, W., Kerzabi, E., & Kyllonen, P. (2025). [Uncovering transferable collaboration patterns across tasks using large language models](https://doi.org/10.1007/978-3-031-98417-4_23). *Proceedings of the 26th International Conference on Artificial Intelligence in Education* ***(AIED 2025)***, pp. 320-335.
 
-- Hou, X., Forsyth, C. M., Andrews-Todd, J., Rice, J., Cai, Z., **Jiang, Y.**, Zapata-Rivera, D., & Graesser, A. C. (2025). An LLM-enhanced multi-agent architecture for conversation-based assessment. *Proceedings of the 26th International Conference on Artificial Intelligence in Education* ***(AIED 2025)***.
+- Hou, X., Forsyth, C. M., Andrews-Todd, J., Rice, J., Cai, Z., **Jiang, Y.**, Zapata-Rivera, D., & Graesser, A. C. (2025). [An LLM-enhanced multi-agent architecture for conversation-based assessment](https://doi.org/10.1007/978-3-031-98417-4_9). *Proceedings of the 26th International Conference on Artificial Intelligence in Education* ***(AIED 2025)***, pp. 119-134.
 
-- Zhang, L., Zhai, X., Lin, J., Kleiman, J., Zapata-Rivera, D., Forsyth, C. M., **Jiang, Y.**, Hu, X., & Graesser, A. C. (2025). Exploring communicative strategies for collaborative LLM agents in mathematical problem solving. *Proceedings of the 26th International Conference on Artificial Intelligence in Education* ***(AIED 2025)***.
+- Zhang, L., Zhai, X., Lin, J., Kleiman, J., Zapata-Rivera, D., Forsyth, C. M., **Jiang, Y.**, Hu, X., & Graesser, A. C. (2025). [Exploring communicative strategies for collaborative LLM agents in mathematical problem solving](https://doi.org/10.1007/978-3-031-99264-3_32). *Proceedings of the 26th International Conference on Artificial Intelligence in Education* ***(AIED 2025)***, pp. 258-265.
 
-- **Jiang, Y.**, Graf, E. A., & Andrews-Todd, J. (2025). Using epistemic network analysis and sequential pattern mining to explore the impacts of human facilitation on collaborative mathematical problem solving. *Proceedings of the Annual Meeting of the International Society of the Learning Sciences* ***(ISLS 2025)***.
+- **Jiang, Y.**, Graf, E. A., & Andrews-Todd, J. (2025). [Using epistemic network analysis and sequential pattern mining to explore the impacts of human facilitation on collaborative mathematical problem solving](https://doi.org/10.22318/cscl2025.352932). *Proceedings of the 18th International Conference on Computer-Supported Collaborative Learning* ***(CSCL 2025)***, pp 3-11. International Society of the Learning Sciences.
 
 - **Jiang, Y.**, Hao, J., Fauss, M., & Li, C. (2024). [Towards fair detection of AI-generated essays in large-scale writing assessments](https://doi.org/10.1007/978-3-031-64312-5_38). *Proceedings of the 25th International Conference on Artificial Intelligence in Education* ***(AIED 2024)*** (pp. 317-324). Springer.
 
@@ -82,14 +82,8 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 ## Workshop Papers
 - Zapata-Rivera, D., Forsyth, C. M., Graf, A., & **Jiang, Y.** (2024). [Designing and evaluating evidence-centered design based conversations for assessment with LLMs](https://ceur-ws.org/Vol-3840/L3MNGET24_paper3.pdf). ***Proceedings of EDM 2024 Workshop: Leveraging Large Language Models for Next Generation Educational Technologies***.
 
-## Commissioned Papers and Special Reports
-- **Jiang, Y.**, Cayton-Hodges, G. A., Nabors Oláh, L., & Minchuk, I. (2022). Using student calculator data to make inferences about student problem solving on the grade 8 NAEP 2019 mathematics assessment. ***Report to U.S. Department of Education***.
-
-- NAEP Reporting Task Force White Paper. ***Submitted to U.S. Department of Education***. (2020)
-
-- NAEP Science ICT Process Data Analyses Report. ***Submitted to U.S. Department of Education***. (2019)
-
-- NAEP Special Study SBT-DI Task Report. ***Submitted to U.S. Department of Education***. (2018)
 
 ## Preprints
 - Zhang, L., Lin, J., Sabatini, J., Zapata-Rivera, D., Forsyth, C., **Jiang, Y.**, Hollander, J., Hu, X., & Graesser, A. C. (2025). Generative data imputation for sparse learner performance data using generative adversarial imputation networks. ***[ArXiv](https://doi.org/10.48550/arXiv.2503.18982)***.
+
+- Zhang, L., Yeasin, M., Havugimana., F., Lin, J., Zapata-Rivera, D., Forsyth, C., **Jiang, Y.**, Hu, X., & Graesser, A. C. (2025). Bridging global pretraining and similarity-based local fine-tuning in GAIN for robust imputation of sparse learner performance data. ***[TechRxiv](10.36227/techrxiv.175607180.00548755/v1)***
