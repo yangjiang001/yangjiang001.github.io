@@ -35,6 +35,7 @@ Feel free to contact me at [yjiang002@ets.org](mailto:yjiang002@ets.org) if you�
 
 ## 📢 Recent News
 
+- **April 2026** — Honored to receive the Outstanding Contribution to Practice in Cognition and Assessment Award from the American Educational Research Association (AERA) Cognition and Assessment SIG. 🎉
 - **May 2025** — Honored to receive the [Alumni Council Award for Impact in Education](https://www.gse.harvard.edu/ideas/news/25/05/tutwiler-jiang-receive-alumni-council-awards) from Harvard Graduate School of Education 🎉  
 - **April 2025** — Our latest [article](https://doi.org/10.1111/jedm.12416), "Using keystroke behavior patterns to detect nonauthentic texts in writing assessments: Evaluating the fairness of predictive models," was published in the *Journal of Educational Measurement*.  
 - **April 2025** — Thrilled that our [full paper](https://doi.org/10.1007/978-3-031-98417-4_23), "Uncovering transferable collaboration patterns across tasks using large language models," was accepted by the 26th International Conference on Artificial Intelligence in Education (AIED 2025). 🎉

@@ -11,6 +11,8 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 
 ## Journal Articles
 
+- Cui, W., Hao, J., **Jiang, Y.**, Kyllonen, P. C., & Kerzabi, E. (2026). [Automated coding of communication data using large language models: A comparison of hierarchical and direct prompting strategies](https://doi.org/10.3389/feduc.2026.1764154). ***Frontiers in Education***, 11, 1764154.
+
 - **Jiang, Y.**, Beigman Klebanov, B., Hao, J., Deane, P., & Livne, O. E. (2025). [Unveiling patterns of interaction with automated feedback in Writing Mentor and their relationships with use goals and writing outcomes](https://doi.org/10.1111/jcal.70014). ***Journal of Computer Assisted Learning***, 41(2). e70014.
 
 - **Jiang, Y.**, Zhang, M., Hao, J., Deane, P., & Li, C. (2024). [Using keystroke behavior patterns to detect nonauthentic texts in writing assessments: Evaluating the fairness of predictive models](https://doi.org/10.1111/jedm.12416). ***Journal of Educational Measurement***, 61(4), 571-594. 
@@ -41,6 +43,12 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=MepRH
 
 
 ## Conference Papers in Stringently Refereed Proceedings
+
+- Alexandron, G., Beigman Klebanov, B., Burstein, J., **Jiang, Y.**, & Strugatski, A. (2026). *Applying assessment theories to evaluate LLMs and LLM-supported learners. Proceedings of the 16th International Learning Analytics and Knowledge Conference* ***(LAK 2026)***.
+
+- Andrews-Todd, J., Lee, J., Cisterna, D., Song, Y., Graf, E. A., & **Jiang, Y.** (2026). Design and perceptions of a science conversation-based assessment with AI agents. *Proceedings of the 20th International Conference of the Learning Sciences* ***(ICLS 2026)***. International Society of the Learning Sciences.
+
+- Hao, J., Kyllonen, P., Kerzabi, E., Cui, W., Guo, E., Andrews-Todd, J., **Jiang, Y.**, & Elliott, S. (2026). Leveraging CSCL for social emotional learning: Early insights from a large-scale classroom study. *Proceedings of the 19th International Conference on Computer-Supported Collaborative Learning* ***(CSCL 2026)***. International Society of the Learning Sciences.
 
 - **Jiang, Y.**, Hao, J., Cui, W., Kerzabi, E., & Kyllonen, P. (2025). [Uncovering transferable collaboration patterns across tasks using large language models](https://doi.org/10.1007/978-3-031-98417-4_23). *Proceedings of the 26th International Conference on Artificial Intelligence in Education* ***(AIED 2025)***, pp. 320-335.
 
